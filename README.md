@@ -1,2 +1,2 @@
 # Second Repository.
-Trying git and github 😎
+Trying git and github! 😎
